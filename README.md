@@ -20,14 +20,16 @@ conda env create -f astroEnv.yml
 You will need to download some astronomical data-cubes to complete
 this exercise. Execute the following on the command line:
 ```
-wget http://web.science.mq.edu.au/~cpurcell/public/index.php
+wget http://web.science.mq.edu.au/~cpurcell/public/downloads/dataHOPS.zip
 ```
 
 Once everything is installed, activate the new conda environment and
 start the Jupyter Notebook:
 
-``` source activate astroEnv
-jupyter-notebook```
+```
+source activate astroEnv
+jupyter-notebook
+```
 
 
 
