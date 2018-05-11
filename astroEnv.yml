@@ -1,0 +1,11 @@
+name: astroEnv
+dependencies:
+ - python=3.5
+ - numpy
+ - astropy
+ - scipy
+ - matplotlib
+ - pillow
+ - ipython
+ - jupyter
+ - bokeh
