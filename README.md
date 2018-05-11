@@ -26,8 +26,10 @@ wget http://web.science.mq.edu.au/~cpurcell/public/index.php
 Once everything is installed, activate the new conda environment and
 start the Jupyter Notebook:
 
-``` source activate astroEnv
-jupyter-notebook```
+```
+source activate astroEnv
+jupyter-notebook
+```
 
 
 
